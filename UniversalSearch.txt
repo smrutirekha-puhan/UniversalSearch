@@ -1,0 +1,31 @@
+QUESTIONS:
+1. Is there will be a search bar where the user can search ?
+2. The user have to register before doing any job or not ?
+3. What are the keywords or, data that should be searched by the user ?
+4. What will be data type of the searched content that user should search ?
+5. What will be the image type &  maximum image size that should be uploaded by the user ?
+6. Only registered user will upload image ?
+7. Only registered user will upload audio and video ?
+8.Is there any other feature that should be grouped with the available features?
+
+ASSUMPTIONS:
+1.Users conducts can log in to the system with credentials.
+1.Once logged in, A user can search for job based on criterias like giving Job Id/Title/Location .
+2.Image should be searchable based on relevant data & keyword.
+3.After enetring search content the user should be  provided with all the datas relevant to the keyword e.g.Job title, Job Description, Ownership, Agents, Location, images, audios, videos related to that search.
+4.The audio  & video must be searchable.
+5. The system shall allow Only registered users to upload image, audio, video and to do mail conversations.
+6. The image, audio note, video should be save in the database and searchable based on keyword.
+7.Users want to share there information & collaborate.
+Mockups:
+1. Seach Bar
+2.Graphics
+3.HTML
+4.UI
+5.Flow diagram
+ESTIMATION:
+1.Labour Costs- Project Manager, Project team members, Testing
+2.Time & cost- 100hrs.
+3.Hardware & Software
+Total-$330
+
