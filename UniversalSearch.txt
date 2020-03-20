@@ -26,6 +26,7 @@ Mockups:
 ESTIMATION:
 1.Labour Costs- Project Manager, Project team members, Testing
 2.Time & cost- 100hrs.
-3.Hardware & Software
+3.Hardware-intel core i5 7th Gen, 16 GB RAM 
+4.Software-ASP.NET Core, MySQL, ASP.NET Web API Entity Framework, BootStrap
 Total-$330
 
